@@ -3,7 +3,7 @@
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
       <AdTitle>WKruk_Martyna_Wojciechowska_6s_9x16_v02_audio_int</AdTitle>
-      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N9439.5671770VIDEOONE/B33810125.428664841;dc_trk_aid=622067419;dc_trk_cid=238205081;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
+      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N9439.5671770VIDEOONE/B33810125.429702966;dc_trk_aid=622392489;dc_trk_cid=238205081;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
@@ -13,7 +13,7 @@
             </TrackingEvents>
             <VideoClicks>
               <ClickThrough><![CDATA[https://wkruk.pl/1840/kolekcja-freedom-forever?utm_source=videoone&utm_medium=video_6sek&utm_campaign=Freedom_FOREVER_2025&epi=&dclid=CPDQ2Prw3I8DFSKIgwcddQE10Q&gad_source=7]]></ClickThrough>
-              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N9439.5671770VIDEOONE/B33810125.428664841;dc_trk_aid=622067419;dc_trk_cid=238205081;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickTracking>
+              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N9439.5671770VIDEOONE/B33810125.429702966;dc_trk_aid=622392489;dc_trk_cid=238205081;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickTracking>
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1080" height="1920" bitrate="500">
